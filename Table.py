@@ -9,4 +9,5 @@ def generatetable(n):
 
 for i in range(2, 101):
     generatetable(i)
-                 
+#code by salman
+#github = numaan28
